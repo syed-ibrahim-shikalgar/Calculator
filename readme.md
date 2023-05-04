@@ -21,4 +21,4 @@
 
 **Time took to complete this project**: 3 Hours
 
-## [**Live-link**]() of the project
+## [**Live-link**](https://calculator-application-calculation.netlify.app/) of the project
